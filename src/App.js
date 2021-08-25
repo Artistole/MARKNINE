@@ -19,15 +19,25 @@ const songs = {
       name: "This is a man's world",
       rating: "4/5",
       singer: "Dedrick Weathersby"
+    },
+    {
+      name: "You shock me all night long",
+      rating: "3/5",
+      singer: "AC/DC"
     }
   ],
 
   RAP: [
     { name: "Lose Yourself", rating: "5/5", singer: "Eminme" },
-    { name: "Loonshots", rating: "5/5", singer: "NF" }
+    { name: "Nate", rating: "5/5", singer: "NF" },
+    { name: "Ms Jackson", rating: "3/5", singer: "OutKast" }
   ],
 
-  RandBSOUL: [{ name: "Earth Angel", rating: "4/5", singer: "The Penguins" }]
+  RandBSOUL: [
+    { name: "Earth Angel", rating: "4/5", singer: "The Penguins" },
+    { name: "Hit Different", rating: "3/5", singer: "SZA" },
+    { name: "When a man loves a woman", rating: "4/5", singer: "Percy Sledge" }
+  ]
 };
 
 export default function App() {
