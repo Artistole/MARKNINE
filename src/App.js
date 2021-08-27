@@ -28,7 +28,7 @@ const songs = {
   ],
 
   RAP: [
-    { name: "Lose Yourself", rating: "5/5", singer: "Eminme" },
+    { name: "Lose Yourself", rating: "5/5", singer: "Eminmem" },
     { name: "Nate", rating: "5/5", singer: "NF" },
     { name: "Ms Jackson", rating: "3/5", singer: "OutKast" }
   ],
